@@ -16,8 +16,3 @@ def factorialR(n):
 
 
 print("factorial(4):", factorialI(4))
-
-def sumLista21(l):
-    sumTotal=0
-    for i in l:
-        
